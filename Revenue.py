@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="מחשבון השקעות", page_icon="💰")
 
-st.title("💰 מחשבון השקעות עם גרף תשואה")
+st.title("💰 מחשבון השקעות עם גרף תשואה עדכון ראשון")
 st.write("הכנס נתונים כדי לראות איך ההשקעה שלך צומחת לאורך הזמן.")
 
 # --- קלט מהמשתמש ---
